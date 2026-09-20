@@ -1,0 +1,13 @@
+QR_test.v
+QR_top.v
+COMPLEX_PE.v
+reg_p.v
+reg_mode.v
+CORDIC_v2.v
+CORDIC_unit_v2.v
+control_unit.v
+delay_line.v
+./ALU_block/real_add.v
+./ALU_block/real_mul.v
+./ALU_block/real_sub.v
+./ALU_block/real_trunc.v
